@@ -46,13 +46,30 @@ Tendo feito isso você irá ⬇️
 ```
 
 
- - **Exemplo**
+ - **Exemplo no terminal**
+
+ ![Capturar](https://github.com/alana06/Projeto-piloto---Banco-Digital-/assets/150863838/1f2c8989-915e-464a-92a6-7a4f3f41a8f8)
 
 
 
-Desta forma, o servidor inciará na porta:3000
+Desta forma, o servidor já será inciado na porta:3000
 
 E você terá acesso através do http://localhost:3000 + as rotas.
+
+# **Exemplos de testes utilizando o Insomnia**
+
+- Listagem de contas
+
+  
+![Capturar3](https://github.com/alana06/Projeto-piloto---Banco-Digital-/assets/150863838/1f342819-18c2-4ef7-8ba4-126376ca2009)
+
+
+- Deposito 
+
+![Capturar4](https://github.com/alana06/Projeto-piloto---Banco-Digital-/assets/150863838/1d96f7d1-0dba-4b2b-a51f-400fae47c104)
+
+
+
 
 
 
